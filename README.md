@@ -18,7 +18,6 @@ An AI-powered mock interview platform built using **Python, Streamlit, and Groq 
 - ✅ Hiring Recommendation
 - 💾 Interview Transcript (JSON)
 - 📋 Evaluation Report (JSON)
-- 📈 Progress Bar
 
 ---
 
@@ -49,6 +48,7 @@ AI-Interview-Agent/
 ├── .env
 ├── transcript.json
 ├── evaluation.json
+├── Screenshots
 ```
 
 ---
