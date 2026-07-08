@@ -49,7 +49,6 @@ AI-Interview-Agent/
 ├── .env
 ├── transcript.json
 ├── evaluation.json
-└── screenshots/
 ```
 
 ---
@@ -59,7 +58,7 @@ AI-Interview-Agent/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Interview-Agent.git
+git clone https://github.com/Kirangr5/AI-Interview-Agent.git
 ```
 
 ### Go to the project folder
@@ -108,19 +107,7 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots of:
-
-- Home Page
-- Candidate Details
-- AI Interview Questions
-- AI Evaluation
-- Final Dashboard
-
-Store them inside the `screenshots/` folder.
-
----
 
 ## 🚀 Future Improvements
 
